@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "name": "rickdb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "egormaloedov_ex_rickdb"
+  },
+  "author": "egormaloedov",
+  "license": "ISC",
+  "description": ""
+}
